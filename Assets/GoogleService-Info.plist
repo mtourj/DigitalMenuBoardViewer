@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>116152134547-fngf2mdrij3o8mddpch7ccma96rs5lk2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.116152134547-fngf2mdrij3o8mddpch7ccma96rs5lk2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD8BrqZuCQZCJ0CvND81xb_YoHdvoP0jqM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>116152134547</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>viewer.app.sheeshkebabkitchen</string>
+	<key>PROJECT_ID</key>
+	<string>sheesh-lebanese-kitchen</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sheesh-lebanese-kitchen.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:116152134547:ios:eb270d7ae9e8de28</string>
+	<key>DATABASE_URL</key>
+	<string>https://sheesh-lebanese-kitchen.firebaseio.com</string>
+</dict>
+</plist>

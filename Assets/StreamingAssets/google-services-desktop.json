@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "116152134547-fngf2mdrij3o8mddpch7ccma96rs5lk2.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8BrqZuCQZCJ0CvND81xb_YoHdvoP0jqM"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:116152134547:ios:eb270d7ae9e8de28", 
+        "android_client_info": {
+          "package_name": "viewer.app.sheeshkebabkitchen"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "sheesh-lebanese-kitchen.appspot.com", 
+    "project_id": "sheesh-lebanese-kitchen", 
+    "firebase_url": "https://sheesh-lebanese-kitchen.firebaseio.com", 
+    "project_number": "116152134547"
+  }
+}
